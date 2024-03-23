@@ -163,4 +163,9 @@ button:hover{
     button{
         width: 280px;
     }
+    body{
+        background: url(gym_m.jpg);
+        background-position: center;
+        background-size: cover;
+    }
 }
