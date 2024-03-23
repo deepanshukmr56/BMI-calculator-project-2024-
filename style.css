@@ -156,6 +156,7 @@ button:hover{
     .container{
         width: 350px;
         height: 450px;
+        
     }
     .input{
         width: 280px;
@@ -167,5 +168,6 @@ button:hover{
         background: url(gym_m.jpg);
         background-position: center;
         background-size: cover;
+        backdrop-filter: blur(5px);
     }
 }
